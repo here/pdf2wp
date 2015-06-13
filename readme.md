@@ -33,13 +33,15 @@ WordPress plugin converts an uploaded pdf to a WordPress post using the pdftotex
 
 ## Pseudo Code
 
-Creating an admin page to upload pdf
+* Creating an admin page to upload pdf
 * On upload, convert pdf to text
-** exec(pdftotext)
-** alternative ideas
-*** remote API convert
-*** ImageMagick
-*** PDF Grep
+  * exec(pdftotext)
+  * alternative ideas
+    * remote API convert
+    * ImageMagick
+    * PDF Grep
+
+## Future Ideas
 
 Allow Raw PDF Viewing
 * viewer PDF.js https://github.com/mozilla/pdf.js/
