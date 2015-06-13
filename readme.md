@@ -1,13 +1,13 @@
 # pdf2wp
 
-Contributors: formula1, here
-Donate link: http://in-space.org
-Tags: pdf
-Requires at least: 0.1
-Tested up to: 0.1
-Stable tag: 0.2
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl
+* Contributors: formula1, here
+* Donate link: http://in-space.org
+* Tags: pdf
+* Requires at least: 0.1
+* Tested up to: 0.1
+* Stable tag: 0.2
+* License: GPLv3 or later
+* License URI: http://www.gnu.org/licenses/gpl
 
 ## Description
 
